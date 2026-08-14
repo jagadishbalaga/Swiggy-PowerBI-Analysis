@@ -1,5 +1,9 @@
 # Swiggy Power BI Analysis
 
+📊 Dashboard Overview
+<img width="1323" height="740" alt="Screenshot 2026-08-14 121135" src="https://github.com/user-attachments/assets/c48aeffe-0ab2-4755-9ebb-8d1b00898944" />
+
+
 ## 📌 Project Overview
 
 This project is an interactive Power BI dashboard created to analyze Swiggy restaurant data.
